@@ -73,7 +73,7 @@ AirAsia	I5-764	Delhi	Early_Morning	zero	Mumbai	Economy	2.17	1	5956
 │ ├─ train_baseline.py # навчання Baseline
 │ ├─ train_rf.py # навчання RandomForest
   └─ train_xgb.py # навчання XGBoost
-└─ </pre>
+└─ README.md </pre>
 
 ## 4) Реалізація модулів
 
